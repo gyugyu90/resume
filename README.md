@@ -4,12 +4,20 @@
 let me = introduceMyself()
 ```
 
-### 박규혁, 1990년생, Programmer
+### 박규혁
+kh2000park@gmail.com  
+`#1990년생` `#Programmer` `#서울동작구사당동`  
 
 
-## Skills
+
+## Skills  
+(커서를 올리면 텍스트가 보입니다.)
 #### Backend
+<img src="images/java.png" width="50" title="자바">&nbsp;&nbsp;&nbsp;
+<img src="images/python.png" width="50">&nbsp;&nbsp;&nbsp;
+
 - Java, Spring MVC, Spring Boot
+
 - Python, Django, Django Rest Framework
 
 #### Frontend
@@ -32,7 +40,7 @@ let me = introduceMyself()
 - Jennifer, Pinpoint
 
 #### And more tools...
-- Kong, Sonarqube,
+- Kong, Sonarqube, Swagger,
 
 ## Career
 #### SK엔카닷컴
