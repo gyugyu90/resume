@@ -13,22 +13,40 @@ kh2000park@gmail.com
 ## Skills  
 (커서를 올리면 텍스트가 보입니다.)
 #### Backend
-<img src="images/java.png" width="50" title="자바">&nbsp;&nbsp;&nbsp;
-<img src="images/python.png" width="50">&nbsp;&nbsp;&nbsp;
+<img src="images/java.png" width="50" title="Java">
+&nbsp;&nbsp;&nbsp;
+<img src="images/spring.png" width="50" title="Spring">
+&nbsp;&nbsp;&nbsp;
+<img src="images/spring-boot.png" width="50" title="Spring Boot">  
 
-- Java, Spring MVC, Spring Boot
-
-- Python, Django, Django Rest Framework
+<img src="images/python.png" width="50" title="Python">
+&nbsp;&nbsp;&nbsp;
+<img src="images/django.png" width="50" title="Django">
+&nbsp;&nbsp;&nbsp;
+<img src="images/django-rest-framework.png" width="50" title="Django Rest Framework">  
 
 #### Frontend
-- Javascript, React
+<img src="images/javascript.jpeg" width="50" title="Javascript">
+&nbsp;&nbsp;&nbsp;
+<img src="images/react.png" width="50" title="React">  
 
 #### Mobile
-- Java, Android
-- Swift, iOS
+<img src="images/android.png" width="50" title="Android">  
+
+<img src="images/swift.png" width="50" title="Swift">
+&nbsp;&nbsp;&nbsp;
+<img src="images/ios.png" width="50" title="iOS(Cocoa Touch)">
 
 #### Infrastructure
-- AWS(EC2, Elastic Beanstalk, S3, RDS)
+<img src="images/aws.jpg" width="50" title="Amazon Web Services">
+&nbsp;&nbsp;&nbsp;
+<img src="images/amazon-ec2.png" width="50" title="EC2">
+&nbsp;&nbsp;&nbsp;
+<img src="images/amazon-rds.png" width="50" title="EC2">
+&nbsp;&nbsp;&nbsp;
+<img src="images/amazon-s3.png" width="50" title="EC2">
+&nbsp;&nbsp;&nbsp;
+<img src="images/aws-elastic-beanstalk.png" width="50" title="Elastic Beanstalk">  
 
 #### Software Development Process
 - TiDD with Jira, Bitbucket, Bamboo
