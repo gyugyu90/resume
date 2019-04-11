@@ -50,7 +50,7 @@ Software Engineer
 
 ## Projects
 
-#### @SK엔카닷컴
+### @SK엔카닷컴
 
 ##### [엔카 매거진](https://www.encarmagazine.com/) API 전환 프로젝트  
 - 기간: 2018.12~2019.04
@@ -89,16 +89,31 @@ Software Engineer
 - 기간: 2018.06
 - 개요: 일본 중고차 거래 플랫폼 "SBT"에 엔카 정보를 송신해주는 Batch 개발
 
-#### @러블리에프앤티
+### @러블리에프앤티
 ##### RicoPlace
 - 기간: 2017.01~2018.02
 - 개요: 요식업 매장관리 앱 개발
 - 사용기술: Java, RxJava, Android, Swift, RxSwift, Cocoa Touch Framework, Django, Django REST Framework, PostgreSQL, Firebase, MVVM Pattern
+- 담당업무: 서버, iOS, Android 개발
 
 ##### Jutopia
-- 기간: 2017.01~2018.02
+- 기간: 2016.02~2017.01
 - 개요: 음료 관련 정보 및 리뷰 커뮤니티 개발
 - 사용기술: Java, Android, Swift, Cocoa Touch Framework, php-mysql
+- 담당업무: 서버, iOS, Android 개발
+
+### @개인프로젝트
+##### 레알밥도둑 [Android](https://goo.gl/p4tKq3) [iOS](https://goo.gl/t5QASU)
+- 기간: 2017.06~2017.10, 현재 유지보수 중
+- 개요: 음료 관련 정보 및 리뷰 커뮤니티 개발
+- 사용기술: Java, Android, Swift, Cocoa Touch Framework, Django, Django REST Framework
+- 담당업무: 서버, iOS, Android 개발
+
+##### 무민이 [Android](https://goo.gl/jNiXtZ) [iOS](https://goo.gl/zjz51x)
+- 기간: 2016.08~2016.10, 2017.04~2017.06
+- 개요: 음료 관련 정보 및 리뷰 커뮤니티 개발
+- 사용기술: Java, Android, Swift, Cocoa Touch Framework, php-mysql
+- 담당업무: 서버, iOS, Android 개발
 
 ## Education
 #### Framework를 활용한 빅데이터 개발 전문가 과정, 쌍용정보통신교육센터
