@@ -31,16 +31,16 @@ kh2000park@gmail.com
 <img src="images/aws-elastic-beanstalk.png" width="50" title="Elastic Beanstalk">  
 
 #### Software Development Process
-- TiDD with Jira, Bitbucket, Bamboo
+TiDD with Jira, Bitbucket, Bamboo
 
 #### Communication Tools
-- Slack, Zeplin, Notion,
+Slack, Zeplin, Notion,
 
 #### Monitoring Tools
-- Jennifer, Pinpoint
+Jennifer, Pinpoint
 
 #### And more tools...
-- Kong, Sonarqube, Swagger,
+Kong, Sonarqube, Swagger
 
 ## Career
 #### SK엔카닷컴
@@ -50,25 +50,56 @@ Backend Developer, 주임
 
 #### 러블리에프앤티
 2016.02.12 ~ 2018.02.02  
-Software Engineer, CTO
+Software Engineer
 
 
 ## Projects
 
 #### @SK엔카닷컴
-- Jira, Bitbucket을 활용한 Ticket Driven Development
-- [엔카 웹](https://www.encar.com/), [엔카 모바일 웹](https://m.encar.com/) 유지보수  
-Spring MVC
-- [엔카 매거진](https://www.encarmagazine.com/) API 전환 프로젝트  
-Play Framework -> Spring Boot, React.js
-- 모바일진단 프로젝트  
-Frontend Server CI/CD 구성, AWS Beanstalk, Bamboo
-- 미네르바 대학 산학협력 프로젝트 PM  
-관련 링크 : http://www.asiatoday.co.kr/view.php?key=20181019010010812
+
+##### [엔카 매거진](https://www.encarmagazine.com/) API 전환 프로젝트  
+- 기간: 2018.12~2019.04
+- 개요: API 프레임워크 전환(Play Framework -> Spring Boot), API Endpoint 변경
+- 사용기술: Spring Boot, JPA, React.js
+
+##### Back-office System 프로젝트
+- 기간: 2019.03~2018.04
+- 개요: 딜러 컨설팅 업무 중 필요한 데이터 시각화 시스템 구축
+- 사용기술: Spring Boot
+- 담당업무: API 개발
+
+##### 정산자동화 프로젝트
+- 기간: 2018.12~2018.02
+- 개요: 관리자 페이지 내 정산자동화 시스템 구축
+- 사용기술: Spring MVC, Spring Boot
+- 담당업무: Frontend 개발
+
+##### 모바일진단 프로젝트  
+- 기간: 2018.08~2018.11
+- 개요: 사내 차량 진단 관리 시스템 구축
+- 사용기술: Spring Boot, React.js, Bamboo, AWS Elastic Beanstalk
+- 담당업무: API 개발, 인증 구현, Frontend Server CI/CD 구성
+
+##### 미네르바 대학 산학협력 프로젝트 (사회공헌)  
+- 기간: 2018.08~2019.12
+- 개요: 미네르바 대학 학생들의 웹앱 개발 프로젝트 관리
+- 담당업무: PM, 학생 Recruiting 및 관리, 웹개발 지원
+- 관련 보도자료 : http://www.asiatoday.co.kr/view.php?key=20181019010010812
+
+##### [엔카 웹](https://www.encar.com/), [엔카 모바일 웹](https://m.encar.com/) 유지보수  
+- 개요: 운영 이슈 및 버그 개선 다수
+- 사용기술: Spring MVC
+
+##### SBT 데이터 송출 Batch 개발
+- 기간: 2018.06
+- 개요: 일본 중고차 거래 플랫폼 "SBT"에 엔카 정보를 송신해주는 Batch 개발
+
+
+
 
 #### @러블리에프앤티
 ##### RicoPlace
-
+- 기간: 2017.01~2018.02
 
 ## Education
 #### Framework를 활용한 빅데이터 개발 전문가 과정, 쌍용정보통신교육센터
