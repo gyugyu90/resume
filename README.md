@@ -89,12 +89,16 @@ Software Engineer
 - 기간: 2018.06
 - 개요: 일본 중고차 거래 플랫폼 "SBT"에 엔카 정보를 송신해주는 Batch 개발
 
-
-
-
 #### @러블리에프앤티
 ##### RicoPlace
 - 기간: 2017.01~2018.02
+- 개요: 요식업 매장관리 앱 개발
+- 사용기술: Java, RxJava, Android, Swift, RxSwift, Cocoa Touch Framework, Django, Django REST Framework, PostgreSQL, Firebase, MVVM Pattern
+
+##### Jutopia
+- 기간: 2017.01~2018.02
+- 개요: 음료 관련 정보 및 리뷰 커뮤니티 개발
+- 사용기술: Java, Android, Swift, Cocoa Touch Framework, php-mysql
 
 ## Education
 #### Framework를 활용한 빅데이터 개발 전문가 과정, 쌍용정보통신교육센터
