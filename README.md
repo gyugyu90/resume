@@ -4,6 +4,7 @@
 kh2000park@gmail.com  
 `#1990년생` `#Programmer` `#서울동작구사당동`  
 
+<hr>
 
 ## Skills
 (커서를 올리면 텍스트가 보입니다.)
@@ -37,7 +38,10 @@ Jennifer, Pinpoint
 #### And more tools...
 Kong, Sonarqube, Swagger, Jenkins
 
-## Projects
+<hr>
+
+## Careers
+
 #### SK엔카닷컴
 2018.04.09 ~ 2019.04.12  
 Backend Developer, 주임
@@ -89,6 +93,8 @@ Software Engineer
 - 기간: 2018.06
 - 개요: 일본 중고차 거래 플랫폼 "SBT"에 엔카 정보를 송신해주는 Batch 개발
 
+<hr>
+
 ### @러블리에프앤티
 ##### RicoPlace
 - 기간: 2017.01~2018.02
@@ -101,6 +107,8 @@ Software Engineer
 - 개요: 음료 관련 정보 및 리뷰 커뮤니티 개발
 - 사용기술: Java, Android, Swift, Cocoa Touch Framework, php-mysql
 - 담당업무: 서버, iOS, Android 개발
+
+<hr>
 
 ### @개인프로젝트
 ##### 레알밥도둑 [Android](https://goo.gl/p4tKq3) [iOS](https://goo.gl/t5QASU)
