@@ -110,7 +110,7 @@ Software Engineer
 - 담당업무: 서버, iOS, Android 개발
 
 ##### 무민이 [Android](https://goo.gl/jNiXtZ) [iOS](https://goo.gl/zjz51x)
-- 기간: 2016.08~2016.10 / 2017.04~2017.06
+- 기간: 2016.08-2016.10, 2017.04-2017.06
 - 개요: 음료 관련 정보 및 리뷰 커뮤니티 개발
 - 사용기술: Java, Android, Swift, Cocoa Touch Framework, php-mysql
 - 담당업무: 서버, iOS, Android 개발
