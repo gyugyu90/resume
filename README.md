@@ -1,16 +1,11 @@
 # Resume
 
-```swift
-let me = introduceMyself()
-```
-
 ### 박규혁
 kh2000park@gmail.com  
 `#1990년생` `#Programmer` `#서울동작구사당동`  
 
 
-
-## Skills  
+## Skills
 (커서를 올리면 텍스트가 보입니다.)
 #### Backend
 <img src="images/java.png" width="50" title="Java"> <img src="images/spring.png" width="50" title="Spring"> <img src="images/spring-boot.png" width="50" title="Spring Boot">  
@@ -42,7 +37,7 @@ Jennifer, Pinpoint
 #### And more tools...
 Kong, Sonarqube, Swagger
 
-## Career
+## Projects
 #### SK엔카닷컴
 2018.04.09 ~ 2019.04.12  
 Backend Developer, 주임
