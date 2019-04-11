@@ -4,7 +4,6 @@
 kh2000park@gmail.com  
 `#1990년생` `#Programmer` `#서울동작구사당동`  
 
-<hr>
 
 ## Skills
 (커서를 올리면 텍스트가 보입니다.)
@@ -38,7 +37,6 @@ Jennifer, Pinpoint
 #### And more tools...
 Kong, Sonarqube, Swagger, Jenkins
 
-<hr>
 
 ## Careers
 
