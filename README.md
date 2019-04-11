@@ -29,13 +29,13 @@ kh2000park@gmail.com
 TiDD with Jira, Bitbucket, Bamboo
 
 #### Communication Tools
-Slack, Zeplin, Notion,
+Slack, Zeplin, Notion, Realtime Board, Confluence
 
 #### Monitoring Tools
 Jennifer, Pinpoint
 
 #### And more tools...
-Kong, Sonarqube, Swagger
+Kong, Sonarqube, Swagger, Jenkins
 
 ## Projects
 #### SK엔카닷컴
