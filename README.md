@@ -111,13 +111,13 @@ Software Engineer
 ### @개인프로젝트
 ##### 레알밥도둑 [Android](https://goo.gl/p4tKq3) [iOS](https://goo.gl/t5QASU)
 - 기간: 2017.06~2017.10, 현재 유지보수 중
-- 개요: 음료 관련 정보 및 리뷰 커뮤니티 개발
+- 개요: 전국 초중고 급식정보 제공 서비스
 - 사용기술: Java, Android, Swift, Cocoa Touch Framework, Django, Django REST Framework
 - 담당업무: 서버, iOS, Android 개발
 
 ##### 무민이 [Android](https://goo.gl/jNiXtZ) [iOS](https://goo.gl/zjz51x)
-- 기간: 2016.08-2016.10, 2017.04-2017.06
-- 개요: 음료 관련 정보 및 리뷰 커뮤니티 개발
+- 기간: 2016.08-2016.10
+- 개요: 무인민원발급기 검색지도
 - 사용기술: Java, Android, Swift, Cocoa Touch Framework, php-mysql
 - 담당업무: 서버, iOS, Android 개발
 
