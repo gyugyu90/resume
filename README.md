@@ -78,7 +78,7 @@ Software Engineer
 - 담당업무: API 개발, 인증 구현, Frontend Server CI/CD 구성
 
 ##### 미네르바 대학 산학협력 프로젝트 (사회공헌)  
-- 기간: 2018.08~2019.12
+- 기간: 2018.08~2018.12
 - 개요: 미네르바 대학 학생들의 웹앱 개발 프로젝트 관리
 - 담당업무: PM, 학생 Recruiting 및 관리, 웹개발 지원
 - 관련 보도자료 : http://www.asiatoday.co.kr/view.php?key=20181019010010812
