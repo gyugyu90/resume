@@ -40,17 +40,34 @@ Kong, Sonarqube, Swagger, Jenkins
 
 ## Careers
 
+#### 11번가
+2019.06.17 ~ 현재
+상품관리개발팀
+Software Engineer
+
+
 #### SK엔카닷컴
 2018.04.09 ~ 2019.04.12  
+BE2팀
 Backend Developer, 주임
 
 
 #### 러블리에프앤티
-2016.02.12 ~ 2018.02.02  
+2016.02.12 ~ 2018.02.02
+개발팀
 Software Engineer
 
 
 ## Projects
+
+### 11번가
+
+##### 셀러오피스 Main화면 개선 작업
+- 기간: 2019.06~2019.08
+- 개요: Legacy 프로젝트 일부(메인 화면)를 React Application + API로 전환
+- 사용기술: Spring Boot, Spring Cloud, Redis
+- 담당업무: API 개발
+
 
 ### @SK엔카닷컴
 
